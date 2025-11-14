@@ -3074,3 +3074,18 @@ WARNING: Unmatched cancel notification for request id 3005
 2025.11.14 15:59:25 INFO  Closing debug server tcp://0.0.0.0:57833
 nov 14, 2025 4:05:02 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2025.11.14 16:17:38 INFO  Shutting down server
+2025.11.14 16:17:38 INFO  shutting down Metals
+2025.11.14 16:17:38 INFO  Shut down connection with build server.
+2025.11.14 16:17:38 INFO  Exiting server
+2025.11.14 16:20:07 INFO  Started: Metals version 1.6.3 in folders 'C:\Users\UTPL\Desktop\Examen' for client Visual Studio Code 1.106.0.
+2025.11.14 16:20:08 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.14 16:20:08 INFO  no build target found for C:\Users\UTPL\Desktop\Examen\Pregunta_3.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.14 16:20:10 INFO  no build target found for C:\Users\UTPL\Desktop\Examen\Pregunta_3.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.14 16:20:10 INFO  Attempting to connect to the build server...
+2025.11.14 16:20:10 INFO  Running BSP server List(C:\Users\UTPL\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\UTPL\Desktop\Examen\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\UTPL\Desktop\Examen\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\UTPL\Desktop\Examen\.scala-build\ide-envs.json, C:\Users\UTPL\Desktop\Examen)
+2025.11.14 16:20:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\UTPL\Desktop\Examen\.metals\bsp.trace.json or C:\Users\UTPL\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.14 16:20:12 INFO  time: Connected to build server in 1.97s
+2025.11.14 16:20:12 INFO  Connected to Build server: scala-cli v1.9.1
+2025.11.14 16:20:14 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.14 16:20:14 INFO  time: indexed workspace in 2.8s
